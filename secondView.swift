@@ -42,7 +42,7 @@ struct secondView: View {
                             .aspectRatio(contentMode: .fit)
 
                     }; Button {
-                       response = "woman in stem fr"
+                       response = "woman in stem!!"
                     } label: {
                         Image("green")
                             .resizable(resizingMode: .stretch)
