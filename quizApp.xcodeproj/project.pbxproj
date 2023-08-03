@@ -11,6 +11,8 @@
 		BDDA5C752A7405CA009AADA7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDA5C742A7405CA009AADA7 /* ContentView.swift */; };
 		BDDA5C772A7405CC009AADA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDDA5C762A7405CC009AADA7 /* Assets.xcassets */; };
 		BDDA5C7A2A7405CC009AADA7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDDA5C792A7405CC009AADA7 /* Preview Assets.xcassets */; };
+		BDF092422A74097B001B0DAE /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF092412A74097B001B0DAE /* secondView.swift */; };
+		BDF092442A740E2B001B0DAE /* qOneAwns.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF092432A740E2B001B0DAE /* qOneAwns.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BDDA5C742A7405CA009AADA7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDDA5C762A7405CC009AADA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDDA5C792A7405CC009AADA7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDF092412A74097B001B0DAE /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
+		BDF092432A740E2B001B0DAE /* qOneAwns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = qOneAwns.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,8 @@
 		BDDA5C662A7405CA009AADA7 = {
 			isa = PBXGroup;
 			children = (
+				BDF092412A74097B001B0DAE /* secondView.swift */,
+				BDF092432A740E2B001B0DAE /* qOneAwns.swift */,
 				BDDA5C712A7405CA009AADA7 /* quizApp */,
 				BDDA5C702A7405CA009AADA7 /* Products */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDDA5C752A7405CA009AADA7 /* ContentView.swift in Sources */,
+				BDF092442A740E2B001B0DAE /* qOneAwns.swift in Sources */,
+				BDF092422A74097B001B0DAE /* secondView.swift in Sources */,
 				BDDA5C732A7405CA009AADA7 /* quizAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

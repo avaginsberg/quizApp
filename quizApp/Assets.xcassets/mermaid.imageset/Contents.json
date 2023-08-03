@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "BARBIE_Character_DUA_InstaVert_1638x2048_DOM Small.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
